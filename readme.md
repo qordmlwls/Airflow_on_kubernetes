@@ -162,4 +162,6 @@ except ImportError as e:
 
 > Change KubernetesPodOperator() image into your train example docker image
 
-> Finally, run example_kubernetes_operator.py in airflow webserver
+> Finally, run example_kubernetes_operator.py on airflow webserver then you can find log
+
+![Untitled (12)](https://user-images.githubusercontent.com/43153661/172519530-ca8cc4a6-b965-492f-b3b8-b73048681df3.png)
